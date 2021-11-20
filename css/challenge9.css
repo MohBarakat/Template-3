@@ -2008,6 +2008,7 @@ footer .footer-content .text .icons a i {
 
 footer .footer-content .text p {
   line-height: 2.2;
+  color: #FFF;
 }
 
 footer .footer-content .links ul {
@@ -2065,6 +2066,7 @@ footer .footer-content .info > p {
   font-style: italic;
   text-transform: capitalize;
   line-height: 1.5;
+  color: #FFF;
 }
 
 footer .footer-content .photos {
